@@ -1,1 +1,2 @@
 # -Image-Classifier-using-Deep-Neural-Networks
+This project involves building an image classifier using PyTorch in a Jupyter notebook. Following the training of a deep neural network on the flower dataset, the goal is to create a user-friendly application. This application will be comprised of two Python scripts for command line execution, utilizing the saved checkpoint from the initial phase for testing.
